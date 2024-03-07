@@ -6,4 +6,4 @@ function localScope (){
     console.log(x)
 
 }
--localScope()
+--localScope()
