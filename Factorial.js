@@ -15,3 +15,6 @@ else {
     }
     console.log("The facorial of " + num + " are " + factor);
 }
+
+//Allignment issue
+// make sure about semicolon
