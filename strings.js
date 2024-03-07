@@ -18,3 +18,5 @@ var count=0;
     count++;
 }
 console.log("Number of letters in a given string : " + count)
+
+// Allignment issue
