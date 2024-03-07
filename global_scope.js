@@ -3,7 +3,7 @@ Scope refers to the visibility of variables
 Variables defined outside the function has global scope
 Global scope means it can be seen everywhere in your JS code
 */
-
+// all are mistakes
 
 // defining global variable
 var myGlobal = 10
