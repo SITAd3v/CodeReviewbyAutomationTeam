@@ -6,7 +6,7 @@ Global scope means it can be seen everywhere in your JS code
 
 
 // defining global variable
-var myGlobal = 10;      
+var myGlobal = 10
 
 //define function 1
 
@@ -22,15 +22,15 @@ function fun1(){
 function fun2 (){
     var output ="";
 
-    if (typeof myGlobal != "undefined"){
-        output= "myGlobal: " + myGlobal + "  ; ";
+    if (typeof myGlobal != "undefined")
+       { output= "myGlobal: " + myGlobal + "  ; ";
 
     }
     if (typeof ooopsGlobal != "undefined"){
        
-        output= output+"oopsGlobal: " + ooopsGlobal;
+        output= output+"oopsGlobal: " + ooopsGlobal
         
-        console.log(output);
+        - console.log(output);
 
     }
 
