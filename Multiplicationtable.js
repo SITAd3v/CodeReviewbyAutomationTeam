@@ -7,3 +7,5 @@ for (let i = 1; i<=10; i++) {
 
 console.log (output);
 }
+
+//Check the space in the for loop and athe alignment

@@ -15,3 +15,5 @@ else {
     }
     console.log("The facorial of " + num + " are " + factor);
 }
+
+//Factorial of 0 and 1 can be merged and written as in single if loop and for >1 can be written in else instead of using else if.
