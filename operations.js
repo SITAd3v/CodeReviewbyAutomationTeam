@@ -1,8 +1,8 @@
 // To check what arthimatical operation should be done
 function performoperation(x, y, action) {    if (action === "+") {
-      console.log(x + y)
+      console.log(x + y);
     } else if (action === "-") {
-      console.log(x - y)
+      console.log(x - y);
     } else if (action === "*") {
  console.log(x * y);
     } else if (action === "/") {
