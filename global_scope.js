@@ -4,7 +4,6 @@ Variables defined outside the function has global scope
 Global scope means it can be seen everywhere in your JS code
 */
 
-
 // defining global variable
 var myGlobal = 10
 
@@ -16,7 +15,7 @@ function fun1(){
     ooopsGlobal = 5;
 
 }
-
+//no mistakes in the programg
 //Define second function
 
 function fun2 (){
