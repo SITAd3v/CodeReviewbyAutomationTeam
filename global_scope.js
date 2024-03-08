@@ -12,7 +12,7 @@ var myGlobal = 10
 function fun1(){
 
     //Assign 5 to oopsGlobal Here
-    ooopsGlobal = 5;
+    ooopsGlobal = 5
 
 }
 //no mistakes in the programg
