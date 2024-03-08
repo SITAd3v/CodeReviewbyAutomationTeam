@@ -19,5 +19,5 @@ for(i=0;i<string.length;i++){
 }
 console.log("Number of letters in a given string : " + count);
 
-//Made corrections
+//Made all corrections
 
