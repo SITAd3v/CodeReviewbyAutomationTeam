@@ -14,3 +14,5 @@ function performoperation(x, y, action) {    if (action === "+") {
     }
   }
   performoperation(20, 10, "-");
+
+  //Check the allignment and semicolon in the program
