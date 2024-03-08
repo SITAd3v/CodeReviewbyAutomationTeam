@@ -2,7 +2,7 @@
 //Variables defined inside the function has local scope
 
 function localScope (){
-  let x=100;
+  let x=100
     console.log(x)
 
 }
